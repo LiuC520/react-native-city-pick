@@ -1,6 +1,3 @@
-/**
- * Bootstrap of PickerTest
- */
 
 import React, {Component} from 'react';
 import {
@@ -49,7 +46,6 @@ export default class List extends Component {
                 }
             }
             let _city={}
-            // _city[letters[j]] = each
             _city.index = letters[j]
             _city.name = each
             city.push(_city)
@@ -60,32 +56,8 @@ componentDidMount () {
     var dataBlob = {};
     var sectionIDs = [];
     var rowIDs = [];
-    //因为city每一个数组的键为字母，不好计算数组每一个子项的长度，只能把每一个子数组变成string然后再放到新的数组中
+
     for(let ii = 0;ii<city.length;ii++){
-        // var re2 = /\"(.*?)(?=\")\"/g
-        // let item = JSON.stringify(city[ii])
-        // let va = item.match(re2) //取出所有的
-        // let newcity = []
-        // for(let m = 0;m<va.length;m++){
-        //     let iss = va[m].replace('"','').replace('"','')
-        //     newcity.push(iss)
-        // }
-        // newcity.shift()//因为数组第一个是字母，去掉第一项
-
-        // var sectionName = 'Section ' + ii;
-        // sectionIDs.push(sectionName)
-        // dataBlob[sectionName] = letters[ii]
-        // rowIDs[ii] = [];
-        
-        // for(let j = 0;j<newcity.length;j++){
-        //     var rowName = ii + '-' + j;
-        //     rowIDs[ii].push(rowName)
-        //     dataBlob[rowName] = newcity[j]
-        // }
-        // //计算每个字母和下面城市的总高度，递增放到数组中
-        // // var eachheight = this.props.sectionHeight+this.props.rowHeight*newcity.length
-        // var eachheight = 30+20*newcity.length
-
         var sectionName = 'Section ' + ii;
         sectionIDs.push(sectionName)
         dataBlob[sectionName] = letters[ii]
@@ -156,13 +128,6 @@ componentDidMount () {
         for(let i = 0;i<index;i++){
             position += totalheight[i]
         }       
-        // //因为o和V下面没有城市，listview的section不会显示出来，所以把这两个高度去掉
-        // if(index>14 && index<=21){
-        //     position = position - totalheight[14]
-        // }else if(index>21){
-        //     position = position - totalheight[14] - totalheight[21]
-        // } 
-        //这个listview滚动到相应的位置
         this._listView.scrollTo({
             y:position
         })
