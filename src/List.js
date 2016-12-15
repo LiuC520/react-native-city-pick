@@ -1,7 +1,7 @@
 
 import React, {Component} from 'react';
 import {
-    BackAndroid,View, Image, TouchableOpacity, Modal, Text, ListView, Platform,Dimensions,StyleSheet,Alert
+    View, Image, TouchableOpacity, Modal, Text, ListView, Platform,Dimensions,StyleSheet,Alert
 } from 'react-native';
 import _ from 'lodash';
 import data from './cities-list/city.json'
@@ -11,13 +11,11 @@ const SECTIONHEIGHT = 30,ROWHEIGHT = 40
 const letters = _
     .range('A'.charCodeAt(0), 'Z'.charCodeAt(0) + 1)
     .map(n => String.fromCharCode(n).substr(0))
-    letters.splice(14,1)//去掉o和V,这两个下面没有城市
-    letters.splice(20,1)//去掉o和V,这两个下面没有城市
+    _.pull(letters,'O','V')//去掉o和V,这两个下面没有城市
 let city=[]//城市的数组
 var totalheight=[];//每个字母对应的城市和字母的总高度
 var that = null
 export default class List extends Component {
-    
     constructor(props) {
         super(props);
         var getSectionData = (dataBlob, sectionID) => {
@@ -76,15 +74,7 @@ componentDidMount () {
     this.setState({
             dataSource:this.state.dataSource.cloneWithRowsAndSections(dataBlob, sectionIDs, rowIDs)
         })
-        //处理android的返回事件
-      BackAndroid.addEventListener('hardwareBackPress', function() {
-            that.props.navigator.pop();
-            return true;
-      })
 }
-    componentWillUnmount(){
-        BackAndroid.removeEventListener('hardwareBackPress');
-    }
 
     renderRow(rowData,rowId){
         return (
@@ -92,7 +82,7 @@ componentDidMount () {
             key={rowId}
             style={{height:ROWHEIGHT,justifyContent:'center',paddingLeft:20,paddingRight:30}}
              onPress={()=>{that.changedata(rowData)}}>
-             <View style={styles.rowdata}><Text>{rowData}</Text></View>
+             <View style={styles.rowdata}><Text style={styles.rowdatatext}>{rowData}</Text></View>
                 
             </TouchableOpacity>
         )
@@ -119,7 +109,6 @@ componentDidMount () {
         //回调改变显示的城市
     changedata=(cityname)=>{
         this.props.changeCity(cityname)
-        this.props.navigator.pop();
     }
     
     //touch right indexLetters, scroll the left
@@ -183,5 +172,8 @@ const styles = StyleSheet.create({
     rowdata:{
         borderBottomColor:'#faf0e6',
         borderBottomWidth:0.5
+    },
+    rowdatatext:{
+        color:'gray',
     }
 })
