@@ -1,0 +1,1704 @@
+{
+"CITIES":[
+{
+"code":"110100",
+"name":"北京市",
+"name_en":"Beijing"
+},
+{
+"code":"120100",
+"name":"天津市",
+"name_en":"Tianjin"
+},
+{
+"code":"130100",
+"name":"石家庄市",
+"name_en":"Shijiazhuang Shi"
+},
+{
+"code":"130200",
+"name":"唐山市",
+"name_en":"Tangshan Shi"
+},
+{
+"code":"130300",
+"name":"秦皇岛市",
+"name_en":"Qinhuangdao Shi"
+},
+{
+"code":"130400",
+"name":"邯郸市",
+"name_en":"Handan Shi"
+},
+{
+"code":"130500",
+"name":"邢台市",
+"name_en":"Xingtai Shi"
+},
+{
+"code":"130600",
+"name":"保定市",
+"name_en":"Baoding Shi"
+},
+{
+"code":"130700",
+"name":"张家口市",
+"name_en":"Zhangjiakou Shi "
+},
+{
+"code":"130800",
+"name":"承德市",
+"name_en":"Chengde Shi"
+},
+{
+"code":"130900",
+"name":"沧州市",
+"name_en":"Cangzhou Shi"
+},
+{
+"code":"131000",
+"name":"廊坊市",
+"name_en":"Langfang Shi"
+},
+{
+"code":"131100",
+"name":"衡水市",
+"name_en":"Hengshui Shi "
+},
+{
+"code":"140100",
+"name":"太原市",
+"name_en":"Taiyuan Shi"
+},
+{
+"code":"140200",
+"name":"大同市",
+"name_en":"Datong Shi "
+},
+{
+"code":"140300",
+"name":"阳泉市",
+"name_en":"Yangquan Shi"
+},
+{
+"code":"140400",
+"name":"长治市",
+"name_en":"Changzhi Shi"
+},
+{
+"code":"140500",
+"name":"晋城市",
+"name_en":"Jincheng Shi "
+},
+{
+"code":"140600",
+"name":"朔州市",
+"name_en":"Shuozhou Shi "
+},
+{
+"code":"140700",
+"name":"晋中市",
+"name_en":"Jinzhong Shi"
+},
+{
+"code":"140800",
+"name":"运城市",
+"name_en":"Yuncheng Shi"
+},
+{
+"code":"140900",
+"name":"忻州市",
+"name_en":"Xinzhou Shi"
+},
+{
+"code":"141000",
+"name":"临汾市",
+"name_en":"Linfen Shi"
+},
+{
+"code":"141100",
+"name":"吕梁市",
+"name_en":"Lvliang Shi"
+},
+{
+"code":"150100",
+"name":"呼和浩特市",
+"name_en":"Hohhot Shi"
+},
+{
+"code":"150200",
+"name":"包头市",
+"name_en":"Baotou Shi "
+},
+{
+"code":"150300",
+"name":"乌海市",
+"name_en":"Wuhai Shi"
+},
+{
+"code":"150400",
+"name":"赤峰市",
+"name_en":"Chifeng (Ulanhad)Shi"
+},
+{
+"code":"150500",
+"name":"通辽市",
+"name_en":"Tongliao Shi"
+},
+{
+"code":"150600",
+"name":"鄂尔多斯市",
+"name_en":"Eerduosi Shi"
+},
+{
+"code":"150700",
+"name":"呼伦贝尔市",
+"name_en":"Hulunbeier Shi "
+},
+{
+"code":"150800",
+"name":"巴彦淖尔市",
+"name_en":"Bayannaoer Shi"
+},
+{
+"code":"150900",
+"name":"乌兰察布市",
+"name_en":"Wulanchabu Shi"
+},
+{
+"code":"152200",
+"name":"兴安盟",
+"name_en":"Hinggan Meng"
+},
+{
+"code":"152500",
+"name":"锡林郭勒盟",
+"name_en":"Xilin Gol Meng"
+},
+{
+"code":"152900",
+"name":"阿拉善盟",
+"name_en":"Alxa Meng"
+},
+{
+"code":"210100",
+"name":"沈阳市",
+"name_en":"Shenyang Shi"
+},
+{
+"code":"210200",
+"name":"大连市",
+"name_en":"Dalian Shi"
+},
+{
+"code":"210300",
+"name":"鞍山市",
+"name_en":"AnShan Shi"
+},
+{
+"code":"210400",
+"name":"抚顺市",
+"name_en":"Fushun Shi"
+},
+{
+"code":"210500",
+"name":"本溪市",
+"name_en":"Benxi Shi"
+},
+{
+"code":"210600",
+"name":"丹东市",
+"name_en":"Dandong Shi"
+},
+{
+"code":"210700",
+"name":"锦州市",
+"name_en":"Jinzhou Shi"
+},
+{
+"code":"210800",
+"name":"营口市",
+"name_en":"Yingkou Shi"
+},
+{
+"code":"210900",
+"name":"阜新市",
+"name_en":"Fuxin Shi"
+},
+{
+"code":"211000",
+"name":"辽阳市",
+"name_en":"Liaoyang Shi"
+},
+{
+"code":"211100",
+"name":"盘锦市",
+"name_en":"Panjin Shi"
+},
+{
+"code":"211200",
+"name":"铁岭市",
+"name_en":"Tieling Shi"
+},
+{
+"code":"211300",
+"name":"朝阳市",
+"name_en":"Chaoyang Shi"
+},
+{
+"code":"211400",
+"name":"葫芦岛市",
+"name_en":"Huludao Shi"
+},
+{
+"code":"220100",
+"name":"长春市",
+"name_en":"Changchun Shi "
+},
+{
+"code":"220200",
+"name":"吉林市",
+"name_en":"Jilin Shi "
+},
+{
+"code":"220300",
+"name":"四平市",
+"name_en":"Siping Shi"
+},
+{
+"code":"220400",
+"name":"辽源市",
+"name_en":"Liaoyuan Shi"
+},
+{
+"code":"220500",
+"name":"通化市",
+"name_en":"Tonghua Shi"
+},
+{
+"code":"220600",
+"name":"白山市",
+"name_en":"Baishan Shi"
+},
+{
+"code":"220700",
+"name":"松原市",
+"name_en":"Songyuan Shi"
+},
+{
+"code":"220800",
+"name":"白城市",
+"name_en":"Baicheng Shi"
+},
+{
+"code":"222400",
+"name":"延边朝鲜族自治州",
+"name_en":"Yanbian Chosenzu Zizhizhou"
+},
+{
+"code":"230100",
+"name":"哈尔滨市",
+"name_en":"Harbin Shi"
+},
+{
+"code":"230200",
+"name":"齐齐哈尔市",
+"name_en":"Qiqihar Shi"
+},
+{
+"code":"230300",
+"name":"鸡西市",
+"name_en":"Jixi Shi"
+},
+{
+"code":"230400",
+"name":"鹤岗市",
+"name_en":"Hegang Shi"
+},
+{
+"code":"230500",
+"name":"双鸭山市",
+"name_en":"Shuangyashan Shi"
+},
+{
+"code":"230600",
+"name":"大庆市",
+"name_en":"Daqing Shi"
+},
+{
+"code":"230700",
+"name":"伊春市",
+"name_en":"Yichun Shi"
+},
+{
+"code":"230800",
+"name":"佳木斯市",
+"name_en":"Jiamusi Shi"
+},
+{
+"code":"230900",
+"name":"七台河市",
+"name_en":"Qitaihe Shi"
+},
+{
+"code":"231000",
+"name":"牡丹江市",
+"name_en":"Mudanjiang Shi"
+},
+{
+"code":"231100",
+"name":"黑河市",
+"name_en":"Heihe Shi"
+},
+{
+"code":"231200",
+"name":"绥化市",
+"name_en":"Suihua Shi"
+},
+{
+"code":"232700",
+"name":"大兴安岭地区",
+"name_en":"Da Hinggan Ling Diqu"
+},
+{
+"code":"310100",
+"name":"上海市",
+"name_en":"Shanghai"
+},
+{
+"code":"320100",
+"name":"南京市",
+"name_en":"Nanjing Shi"
+},
+{
+"code":"320200",
+"name":"无锡市",
+"name_en":"Wuxi Shi"
+},
+{
+"code":"320300",
+"name":"徐州市",
+"name_en":"Xuzhou Shi"
+},
+{
+"code":"320400",
+"name":"常州市",
+"name_en":"Changzhou Shi"
+},
+{
+"code":"320500",
+"name":"苏州市",
+"name_en":"Suzhou Shi"
+},
+{
+"code":"320600",
+"name":"南通市",
+"name_en":"Nantong Shi"
+},
+{
+"code":"320700",
+"name":"连云港市",
+"name_en":"Lianyungang Shi"
+},
+{
+"code":"320800",
+"name":"淮安市",
+"name_en":"Huai,an Xian"
+},
+{
+"code":"320900",
+"name":"盐城市",
+"name_en":"Yancheng Shi"
+},
+{
+"code":"321000",
+"name":"扬州市",
+"name_en":"Yangzhou Shi"
+},
+{
+"code":"321100",
+"name":"镇江市",
+"name_en":"Zhenjiang Shi"
+},
+{
+"code":"321200",
+"name":"泰州市",
+"name_en":"Taizhou Shi"
+},
+{
+"code":"321300",
+"name":"宿迁市",
+"name_en":"Suqian Shi"
+},
+{
+"code":"330100",
+"name":"杭州市",
+"name_en":"Hangzhou Shi"
+},
+{
+"code":"330200",
+"name":"宁波市",
+"name_en":"Ningbo Shi"
+},
+{
+"code":"330300",
+"name":"温州市",
+"name_en":"Wenzhou Shi"
+},
+{
+"code":"330400",
+"name":"嘉兴市",
+"name_en":"Jiaxing Shi"
+},
+{
+"code":"330500",
+"name":"湖州市",
+"name_en":"Huzhou Shi "
+},
+{
+"code":"330600",
+"name":"绍兴市",
+"name_en":"Shaoxing Shi"
+},
+{
+"code":"330700",
+"name":"金华市",
+"name_en":"Jinhua Shi"
+},
+{
+"code":"330800",
+"name":"衢州市",
+"name_en":"Quzhou Shi"
+},
+{
+"code":"330900",
+"name":"舟山市",
+"name_en":"Zhoushan Shi"
+},
+{
+"code":"331000",
+"name":"台州市",
+"name_en":"Taizhou Shi"
+},
+{
+"code":"331100",
+"name":"丽水市",
+"name_en":"Lishui Shi"
+},
+{
+"code":"340100",
+"name":"合肥市",
+"name_en":"Hefei Shi"
+},
+{
+"code":"340200",
+"name":"芜湖市",
+"name_en":"Wuhu Shi"
+},
+{
+"code":"340300",
+"name":"蚌埠市",
+"name_en":"Bengbu Shi"
+},
+{
+"code":"340400",
+"name":"淮南市",
+"name_en":"Huainan Shi"
+},
+{
+"code":"340500",
+"name":"马鞍山市",
+"name_en":"Ma,anshan Shi"
+},
+{
+"code":"340600",
+"name":"淮北市",
+"name_en":"Huaibei Shi"
+},
+{
+"code":"340700",
+"name":"铜陵市",
+"name_en":"Tongling Shi"
+},
+{
+"code":"340800",
+"name":"安庆市",
+"name_en":"Anqing Shi"
+},
+{
+"code":"341000",
+"name":"黄山市",
+"name_en":"Huangshan Shi"
+},
+{
+"code":"341100",
+"name":"滁州市",
+"name_en":"Chuzhou Shi"
+},
+{
+"code":"341200",
+"name":"阜阳市",
+"name_en":"Fuyang Shi"
+},
+{
+"code":"341300",
+"name":"宿州市",
+"name_en":"Suzhou Shi"
+},
+{
+"code":"341400",
+"name":"巢湖市",
+"name_en":"Chaohu Shi"
+},
+{
+"code":"341500",
+"name":"六安市",
+"name_en":"Liu,an Shi"
+},
+{
+"code":"341600",
+"name":"亳州市",
+"name_en":"Bozhou Shi"
+},
+{
+"code":"341700",
+"name":"池州市",
+"name_en":"Chizhou Shi"
+},
+{
+"code":"341800",
+"name":"宣城市",
+"name_en":"Xuancheng Shi"
+},
+{
+"code":"350100",
+"name":"福州市",
+"name_en":"Fuzhou Shi"
+},
+{
+"code":"350200",
+"name":"厦门市",
+"name_en":"Xiamen Shi"
+},
+{
+"code":"350300",
+"name":"莆田市",
+"name_en":"Putian Shi"
+},
+{
+"code":"350400",
+"name":"三明市",
+"name_en":"Sanming Shi"
+},
+{
+"code":"350500",
+"name":"泉州市",
+"name_en":"Quanzhou Shi"
+},
+{
+"code":"350600",
+"name":"漳州市",
+"name_en":"Zhangzhou Shi"
+},
+{
+"code":"350700",
+"name":"南平市",
+"name_en":"Nanping Shi"
+},
+{
+"code":"350800",
+"name":"龙岩市",
+"name_en":"Longyan Shi"
+},
+{
+"code":"350900",
+"name":"宁德市",
+"name_en":"Ningde Shi"
+},
+{
+"code":"360100",
+"name":"南昌市",
+"name_en":"Nanchang Shi"
+},
+{
+"code":"360200",
+"name":"景德镇市",
+"name_en":"Jingdezhen Shi"
+},
+{
+"code":"360300",
+"name":"萍乡市",
+"name_en":"Pingxiang Shi"
+},
+{
+"code":"360400",
+"name":"九江市",
+"name_en":"Jiujiang Shi"
+},
+{
+"code":"360500",
+"name":"新余市",
+"name_en":"Xinyu Shi"
+},
+{
+"code":"360600",
+"name":"鹰潭市",
+"name_en":"Yingtan Shi"
+},
+{
+"code":"360700",
+"name":"赣州市",
+"name_en":"Ganzhou Shi"
+},
+{
+"code":"360800",
+"name":"吉安市",
+"name_en":"Ji,an Shi"
+},
+{
+"code":"360900",
+"name":"宜春市",
+"name_en":"Yichun Shi"
+},
+{
+"code":"361000",
+"name":"抚州市",
+"name_en":"Wuzhou Shi"
+},
+{
+"code":"361100",
+"name":"上饶市",
+"name_en":"Shangrao Shi"
+},
+{
+"code":"370100",
+"name":"济南市",
+"name_en":"Jinan Shi"
+},
+{
+"code":"370200",
+"name":"青岛市",
+"name_en":"Qingdao Shi"
+},
+{
+"code":"370300",
+"name":"淄博市",
+"name_en":"Zibo Shi"
+},
+{
+"code":"370400",
+"name":"枣庄市",
+"name_en":"Zaozhuang Shi"
+},
+{
+"code":"370500",
+"name":"东营市",
+"name_en":"Dongying Shi"
+},
+{
+"code":"370600",
+"name":"烟台市",
+"name_en":"Yantai Shi"
+},
+{
+"code":"370700",
+"name":"潍坊市",
+"name_en":"Weifang Shi"
+},
+{
+"code":"370800",
+"name":"济宁市",
+"name_en":"Jining Shi"
+},
+{
+"code":"370900",
+"name":"泰安市",
+"name_en":"Tai,an Shi"
+},
+{
+"code":"371000",
+"name":"威海市",
+"name_en":"Weihai Shi"
+},
+{
+"code":"371100",
+"name":"日照市",
+"name_en":"Rizhao Shi"
+},
+{
+"code":"371200",
+"name":"莱芜市",
+"name_en":"Laiwu Shi"
+},
+{
+"code":"371300",
+"name":"临沂市",
+"name_en":"Linyi Shi"
+},
+{
+"code":"371400",
+"name":"德州市",
+"name_en":"Dezhou Shi"
+},
+{
+"code":"371500",
+"name":"聊城市",
+"name_en":"Liaocheng Shi"
+},
+{
+"code":"371600",
+"name":"滨州市",
+"name_en":"Binzhou Shi"
+},
+{
+"code":"371700",
+"name":"菏泽市",
+"name_en":"Heze Shi"
+},
+{
+"code":"410100",
+"name":"郑州市",
+"name_en":"Zhengzhou Shi"
+},
+{
+"code":"410200",
+"name":"开封市",
+"name_en":"Kaifeng Shi"
+},
+{
+"code":"410300",
+"name":"洛阳市",
+"name_en":"Luoyang Shi"
+},
+{
+"code":"410400",
+"name":"平顶山市",
+"name_en":"Pingdingshan Shi"
+},
+{
+"code":"410500",
+"name":"安阳市",
+"name_en":"Anyang Shi"
+},
+{
+"code":"410600",
+"name":"鹤壁市",
+"name_en":"Hebi Shi"
+},
+{
+"code":"410700",
+"name":"新乡市",
+"name_en":"Xinxiang Shi"
+},
+{
+"code":"410800",
+"name":"焦作市",
+"name_en":"Jiaozuo Shi"
+},
+{
+"code":"410900",
+"name":"濮阳市",
+"name_en":"Puyang Shi"
+},
+{
+"code":"411000",
+"name":"许昌市",
+"name_en":"Xuchang Shi"
+},
+{
+"code":"411100",
+"name":"漯河市",
+"name_en":"Luohe Shi"
+},
+{
+"code":"411200",
+"name":"三门峡市",
+"name_en":"Sanmenxia Shi"
+},
+{
+"code":"411300",
+"name":"南阳市",
+"name_en":"Nanyang Shi"
+},
+{
+"code":"411400",
+"name":"商丘市",
+"name_en":"Shangqiu Shi"
+},
+{
+"code":"411500",
+"name":"信阳市",
+"name_en":"Xinyang Shi"
+},
+{
+"code":"411600",
+"name":"周口市",
+"name_en":"Zhoukou Shi"
+},
+{
+"code":"411700",
+"name":"驻马店市",
+"name_en":"Zhumadian Shi"
+},
+{
+"code":"420100",
+"name":"武汉市",
+"name_en":"Wuhan Shi"
+},
+{
+"code":"420200",
+"name":"黄石市",
+"name_en":"Huangshi Shi"
+},
+{
+"code":"420300",
+"name":"十堰市",
+"name_en":"Shiyan Shi"
+},
+{
+"code":"420500",
+"name":"宜昌市",
+"name_en":"Yichang Shi"
+},
+{
+"code":"420600",
+"name":"襄阳市",
+"name_en":"Xiangfan Shi"
+},
+{
+"code":"420700",
+"name":"鄂州市",
+"name_en":"Ezhou Shi"
+},
+{
+"code":"420800",
+"name":"荆门市",
+"name_en":"Jingmen Shi"
+},
+{
+"code":"420900",
+"name":"孝感市",
+"name_en":"Xiaogan Shi"
+},
+{
+"code":"421000",
+"name":"荆州市",
+"name_en":"Jingzhou Shi"
+},
+{
+"code":"421100",
+"name":"黄冈市",
+"name_en":"Huanggang Shi"
+},
+{
+"code":"421200",
+"name":"咸宁市",
+"name_en":"Xianning Xian"
+},
+{
+"code":"421300",
+"name":"随州市",
+"name_en":"Suizhou Shi"
+},
+{
+"code":"422800",
+"name":"恩施土家族苗族自治州",
+"name_en":"Enshi Tujiazu Miaozu Zizhizhou"
+},
+{
+"code":"429000",
+"name":"省直辖县级行政区划",
+"name_en":"shengzhixiaxianjixingzhengquhua"
+},
+{
+"code":"430100",
+"name":"长沙市",
+"name_en":"Changsha Shi"
+},
+{
+"code":"430200",
+"name":"株洲市",
+"name_en":"Zhuzhou Shi"
+},
+{
+"code":"430300",
+"name":"湘潭市",
+"name_en":"Xiangtan Shi"
+},
+{
+"code":"430400",
+"name":"衡阳市",
+"name_en":"Hengyang Shi"
+},
+{
+"code":"430500",
+"name":"邵阳市",
+"name_en":"Shaoyang Shi"
+},
+{
+"code":"430600",
+"name":"岳阳市",
+"name_en":"Yueyang Shi"
+},
+{
+"code":"430700",
+"name":"常德市",
+"name_en":"Changde Shi"
+},
+{
+"code":"430800",
+"name":"张家界市",
+"name_en":"Zhangjiajie Shi"
+},
+{
+"code":"430900",
+"name":"益阳市",
+"name_en":"Yiyang Shi"
+},
+{
+"code":"431000",
+"name":"郴州市",
+"name_en":"Chenzhou Shi"
+},
+{
+"code":"431100",
+"name":"永州市",
+"name_en":"Yongzhou Shi"
+},
+{
+"code":"431200",
+"name":"怀化市",
+"name_en":"Huaihua Shi"
+},
+{
+"code":"431300",
+"name":"娄底市",
+"name_en":"Loudi Shi"
+},
+{
+"code":"433100",
+"name":"湘西土家族苗族自治州",
+"name_en":"Xiangxi Tujiazu Miaozu Zizhizhou "
+},
+{
+"code":"440100",
+"name":"广州市",
+"name_en":"Guangzhou Shi"
+},
+{
+"code":"440200",
+"name":"韶关市",
+"name_en":"Shaoguan Shi"
+},
+{
+"code":"440300",
+"name":"深圳市",
+"name_en":"Shenzhen Shi"
+},
+{
+"code":"440400",
+"name":"珠海市",
+"name_en":"Zhuhai Shi"
+},
+{
+"code":"440500",
+"name":"汕头市",
+"name_en":"Shantou Shi"
+},
+{
+"code":"440600",
+"name":"佛山市",
+"name_en":"Foshan Shi"
+},
+{
+"code":"440700",
+"name":"江门市",
+"name_en":"Jiangmen Shi"
+},
+{
+"code":"440800",
+"name":"湛江市",
+"name_en":"Zhanjiang Shi"
+},
+{
+"code":"440900",
+"name":"茂名市",
+"name_en":"Maoming Shi"
+},
+{
+"code":"441200",
+"name":"肇庆市",
+"name_en":"Zhaoqing Shi"
+},
+{
+"code":"441300",
+"name":"惠州市",
+"name_en":"Huizhou Shi"
+},
+{
+"code":"441400",
+"name":"梅州市",
+"name_en":"Meizhou Shi"
+},
+{
+"code":"441500",
+"name":"汕尾市",
+"name_en":"Shanwei Shi"
+},
+{
+"code":"441600",
+"name":"河源市",
+"name_en":"Heyuan Shi"
+},
+{
+"code":"441700",
+"name":"阳江市",
+"name_en":"Yangjiang Shi"
+},
+{
+"code":"441800",
+"name":"清远市",
+"name_en":"Qingyuan Shi"
+},
+{
+"code":"441900",
+"name":"东莞市",
+"name_en":"Dongguan Shi"
+},
+{
+"code":"442000",
+"name":"中山市",
+"name_en":"Zhongshan Shi"
+},
+{
+"code":"445100",
+"name":"潮州市",
+"name_en":"Chaozhou Shi"
+},
+{
+"code":"445200",
+"name":"揭阳市",
+"name_en":"Jieyang Shi"
+},
+{
+"code":"445300",
+"name":"云浮市",
+"name_en":"Yunfu Shi"
+},
+{
+"code":"450100",
+"name":"南宁市",
+"name_en":"Nanning Shi"
+},
+{
+"code":"450200",
+"name":"柳州市",
+"name_en":"Liuzhou Shi"
+},
+{
+"code":"450300",
+"name":"桂林市",
+"name_en":"Guilin Shi"
+},
+{
+"code":"450400",
+"name":"梧州市",
+"name_en":"Wuzhou Shi"
+},
+{
+"code":"450500",
+"name":"北海市",
+"name_en":"Beihai Shi"
+},
+{
+"code":"450600",
+"name":"防城港市",
+"name_en":"Fangchenggang Shi"
+},
+{
+"code":"450700",
+"name":"钦州市",
+"name_en":"Qinzhou Shi"
+},
+{
+"code":"450800",
+"name":"贵港市",
+"name_en":"Guigang Shi"
+},
+{
+"code":"450900",
+"name":"玉林市",
+"name_en":"Yulin Shi"
+},
+{
+"code":"451000",
+"name":"百色市",
+"name_en":"Baise Shi"
+},
+{
+"code":"451100",
+"name":"贺州市",
+"name_en":"Hezhou Shi"
+},
+{
+"code":"451200",
+"name":"河池市",
+"name_en":"Hechi Shi"
+},
+{
+"code":"451300",
+"name":"来宾市",
+"name_en":"Laibin Shi"
+},
+{
+"code":"451400",
+"name":"崇左市",
+"name_en":"Chongzuo Shi"
+},
+{
+"code":"460100",
+"name":"海口市",
+"name_en":"Haikou Shi"
+},
+{
+"code":"460200",
+"name":"三亚市",
+"name_en":"Sanya Shi"
+},
+{
+"code":"469000",
+"name":"省直辖县级行政区划",
+"name_en":"shengzhixiaxianjixingzhengquhua"
+},
+{
+"code":"500100",
+"name":"重庆市",
+"name_en":"Chongqing"
+},
+{
+"code":"510100",
+"name":"成都市",
+"name_en":"Chengdu Shi"
+},
+{
+"code":"510300",
+"name":"自贡市",
+"name_en":"Zigong Shi"
+},
+{
+"code":"510400",
+"name":"攀枝花市",
+"name_en":"Panzhihua Shi"
+},
+{
+"code":"510500",
+"name":"泸州市",
+"name_en":"Luzhou Shi"
+},
+{
+"code":"510600",
+"name":"德阳市",
+"name_en":"Deyang Shi"
+},
+{
+"code":"510700",
+"name":"绵阳市",
+"name_en":"Mianyang Shi"
+},
+{
+"code":"510800",
+"name":"广元市",
+"name_en":"Guangyuan Shi"
+},
+{
+"code":"510900",
+"name":"遂宁市",
+"name_en":"Suining Shi"
+},
+{
+"code":"511000",
+"name":"内江市",
+"name_en":"Neijiang Shi"
+},
+{
+"code":"511100",
+"name":"乐山市",
+"name_en":"Leshan Shi"
+},
+{
+"code":"511300",
+"name":"南充市",
+"name_en":"Nanchong Shi"
+},
+{
+"code":"511400",
+"name":"眉山市",
+"name_en":"Meishan Shi"
+},
+{
+"code":"511500",
+"name":"宜宾市",
+"name_en":"Yibin Shi"
+},
+{
+"code":"511600",
+"name":"广安市",
+"name_en":"Guang,an Shi"
+},
+{
+"code":"511700",
+"name":"达州市",
+"name_en":"Dazhou Shi"
+},
+{
+"code":"511800",
+"name":"雅安市",
+"name_en":"Ya,an Shi"
+},
+{
+"code":"511900",
+"name":"巴中市",
+"name_en":"Bazhong Shi"
+},
+{
+"code":"512000",
+"name":"资阳市",
+"name_en":"Ziyang Shi"
+},
+{
+"code":"513200",
+"name":"阿坝藏族羌族自治州",
+"name_en":"Aba(Ngawa) Zangzu Qiangzu Zizhizhou"
+},
+{
+"code":"513300",
+"name":"甘孜藏族自治州",
+"name_en":"Garze Zangzu Zizhizhou"
+},
+{
+"code":"513400",
+"name":"凉山彝族自治州",
+"name_en":"Liangshan Yizu Zizhizhou"
+},
+{
+"code":"520100",
+"name":"贵阳市",
+"name_en":"Guiyang Shi"
+},
+{
+"code":"520200",
+"name":"六盘水市",
+"name_en":"Liupanshui Shi"
+},
+{
+"code":"520300",
+"name":"遵义市",
+"name_en":"Zunyi Shi"
+},
+{
+"code":"520400",
+"name":"安顺市",
+"name_en":"Anshun Xian"
+},
+{
+"code":"522200",
+"name":"铜仁地区",
+"name_en":"Tongren Diqu"
+},
+{
+"code":"522300",
+"name":"黔西南布依族苗族自治州",
+"name_en":"Qianxinan Buyeizu Zizhizhou"
+},
+{
+"code":"522400",
+"name":"毕节地区",
+"name_en":"Bijie Diqu"
+},
+{
+"code":"522600",
+"name":"黔东南苗族侗族自治州",
+"name_en":"Qiandongnan Miaozu Dongzu Zizhizhou"
+},
+{
+"code":"522700",
+"name":"黔南布依族苗族自治州",
+"name_en":"Qiannan Buyeizu Miaozu Zizhizhou"
+},
+{
+"code":"530100",
+"name":"昆明市",
+"name_en":"Kunming Shi"
+},
+{
+"code":"530300",
+"name":"曲靖市",
+"name_en":"Qujing Shi"
+},
+{
+"code":"530400",
+"name":"玉溪市",
+"name_en":"Yuxi Shi"
+},
+{
+"code":"530500",
+"name":"保山市",
+"name_en":"Baoshan Shi"
+},
+{
+"code":"530600",
+"name":"昭通市",
+"name_en":"Zhaotong Shi"
+},
+{
+"code":"530700",
+"name":"丽江市",
+"name_en":"Lijiang Shi"
+},
+{
+"code":"530800",
+"name":"普洱市",
+"name_en":"Simao Shi"
+},
+{
+"code":"530900",
+"name":"临沧市",
+"name_en":"Lincang Shi"
+},
+{
+"code":"532300",
+"name":"楚雄彝族自治州",
+"name_en":"Chuxiong Yizu Zizhizhou"
+},
+{
+"code":"532500",
+"name":"红河哈尼族彝族自治州",
+"name_en":"Honghe Hanizu Yizu Zizhizhou"
+},
+{
+"code":"532600",
+"name":"文山壮族苗族自治州",
+"name_en":"Wenshan Zhuangzu Miaozu Zizhizhou"
+},
+{
+"code":"532800",
+"name":"西双版纳傣族自治州",
+"name_en":"Xishuangbanna Daizu Zizhizhou"
+},
+{
+"code":"532900",
+"name":"大理白族自治州",
+"name_en":"Dali Baizu Zizhizhou"
+},
+{
+"code":"533100",
+"name":"德宏傣族景颇族自治州",
+"name_en":"Dehong Daizu Jingpozu Zizhizhou"
+},
+{
+"code":"533300",
+"name":"怒江傈僳族自治州",
+"name_en":"Nujiang Lisuzu Zizhizhou"
+},
+{
+"code":"533400",
+"name":"迪庆藏族自治州",
+"name_en":"Deqen Zangzu Zizhizhou"
+},
+{
+"code":"540100",
+"name":"拉萨市",
+"name_en":"Lhasa Shi"
+},
+{
+"code":"542100",
+"name":"昌都地区",
+"name_en":"Qamdo Diqu"
+},
+{
+"code":"542200",
+"name":"山南地区",
+"name_en":"Shannan Diqu"
+},
+{
+"code":"542300",
+"name":"日喀则地区",
+"name_en":"Xigaze Diqu"
+},
+{
+"code":"542400",
+"name":"那曲地区",
+"name_en":"Nagqu Diqu"
+},
+{
+"code":"542500",
+"name":"阿里地区",
+"name_en":"Ngari Diqu"
+},
+{
+"code":"542600",
+"name":"林芝地区",
+"name_en":"Nyingchi Diqu"
+},
+{
+"code":"610100",
+"name":"西安市",
+"name_en":"Xi,an Shi"
+},
+{
+"code":"610200",
+"name":"铜川市",
+"name_en":"Tongchuan Shi"
+},
+{
+"code":"610300",
+"name":"宝鸡市",
+"name_en":"Baoji Shi"
+},
+{
+"code":"610400",
+"name":"咸阳市",
+"name_en":"Xianyang Shi"
+},
+{
+"code":"610500",
+"name":"渭南市",
+"name_en":"Weinan Shi"
+},
+{
+"code":"610600",
+"name":"延安市",
+"name_en":"Yan,an Shi"
+},
+{
+"code":"610700",
+"name":"汉中市",
+"name_en":"Hanzhong Shi"
+},
+{
+"code":"610800",
+"name":"榆林市",
+"name_en":"Yulin Shi"
+},
+{
+"code":"610900",
+"name":"安康市",
+"name_en":"Ankang Shi"
+},
+{
+"code":"611000",
+"name":"商洛市",
+"name_en":"Shangluo Shi"
+},
+{
+"code":"620100",
+"name":"兰州市",
+"name_en":"Lanzhou Shi"
+},
+{
+"code":"620200",
+"name":"嘉峪关市",
+"name_en":"Jiayuguan Shi"
+},
+{
+"code":"620300",
+"name":"金昌市",
+"name_en":"Jinchang Shi"
+},
+{
+"code":"620400",
+"name":"白银市",
+"name_en":"Baiyin Shi"
+},
+{
+"code":"620500",
+"name":"天水市",
+"name_en":"Tianshui Shi"
+},
+{
+"code":"620600",
+"name":"武威市",
+"name_en":"Wuwei Shi"
+},
+{
+"code":"620700",
+"name":"张掖市",
+"name_en":"Zhangye Shi"
+},
+{
+"code":"620800",
+"name":"平凉市",
+"name_en":"Pingliang Shi"
+},
+{
+"code":"620900",
+"name":"酒泉市",
+"name_en":"Jiuquan Shi"
+},
+{
+"code":"621000",
+"name":"庆阳市",
+"name_en":"Qingyang Shi"
+},
+{
+"code":"621100",
+"name":"定西市",
+"name_en":"Dingxi Shi"
+},
+{
+"code":"621200",
+"name":"陇南市",
+"name_en":"Longnan Shi"
+},
+{
+"code":"622900",
+"name":"临夏回族自治州",
+"name_en":"Linxia Huizu Zizhizhou "
+},
+{
+"code":"623000",
+"name":"甘南藏族自治州",
+"name_en":"Gannan Zangzu Zizhizhou"
+},
+{
+"code":"630100",
+"name":"西宁市",
+"name_en":"Xining Shi"
+},
+{
+"code":"632100",
+"name":"海东地区",
+"name_en":"Haidong Diqu"
+},
+{
+"code":"632200",
+"name":"海北藏族自治州",
+"name_en":"Haibei Zangzu Zizhizhou"
+},
+{
+"code":"632300",
+"name":"黄南藏族自治州",
+"name_en":"Huangnan Zangzu Zizhizhou"
+},
+{
+"code":"632500",
+"name":"海南藏族自治州",
+"name_en":"Hainan Zangzu Zizhizhou"
+},
+{
+"code":"632600",
+"name":"果洛藏族自治州",
+"name_en":"Golog Zangzu Zizhizhou"
+},
+{
+"code":"632700",
+"name":"玉树藏族自治州",
+"name_en":"Yushu Zangzu Zizhizhou"
+},
+{
+"code":"632800",
+"name":"海西蒙古族藏族自治州",
+"name_en":"Haixi Mongolzu Zangzu Zizhizhou"
+},
+{
+"code":"640100",
+"name":"银川市",
+"name_en":"Yinchuan Shi"
+},
+{
+"code":"640200",
+"name":"石嘴山市",
+"name_en":"Shizuishan Shi"
+},
+{
+"code":"640300",
+"name":"吴忠市",
+"name_en":"Wuzhong Shi"
+},
+{
+"code":"640400",
+"name":"固原市",
+"name_en":"Guyuan Shi"
+},
+{
+"code":"640500",
+"name":"中卫市",
+"name_en":"Zhongwei Shi"
+},
+{
+"code":"650100",
+"name":"乌鲁木齐市",
+"name_en":"Urumqi Shi"
+},
+{
+"code":"650200",
+"name":"克拉玛依市",
+"name_en":"Karamay Shi"
+},
+{
+"code":"652100",
+"name":"吐鲁番地区",
+"name_en":"Turpan Diqu"
+},
+{
+"code":"652200",
+"name":"哈密地区",
+"name_en":"Hami(kumul) Diqu"
+},
+{
+"code":"652300",
+"name":"昌吉回族自治州",
+"name_en":"Changji Huizu Zizhizhou"
+},
+{
+"code":"652700",
+"name":"博尔塔拉蒙古自治州",
+"name_en":"Bortala Monglo Zizhizhou"
+},
+{
+"code":"652800",
+"name":"巴音郭楞蒙古自治州",
+"name_en":"bayinguolengmengguzizhizhou"
+},
+{
+"code":"652900",
+"name":"阿克苏地区",
+"name_en":"Aksu Diqu"
+},
+{
+"code":"653000",
+"name":"克孜勒苏柯尔克孜自治州",
+"name_en":"Kizilsu Kirgiz Zizhizhou"
+},
+{
+"code":"653100",
+"name":"喀什地区",
+"name_en":"Kashi(Kaxgar) Diqu"
+},
+{
+"code":"653200",
+"name":"和田地区",
+"name_en":"Hotan Diqu"
+},
+{
+"code":"654000",
+"name":"伊犁哈萨克自治州",
+"name_en":"Ili Kazak Zizhizhou"
+},
+{
+"code":"654200",
+"name":"塔城地区",
+"name_en":"Tacheng(Qoqek) Diqu"
+},
+{
+"code":"654300",
+"name":"阿勒泰地区",
+"name_en":"Altay Diqu"
+},
+{
+"code":"659000",
+"name":"自治区直辖县级行政区划",
+"name_en":"zizhiquzhixiaxianjixingzhengquhua"
+}
+]
+}

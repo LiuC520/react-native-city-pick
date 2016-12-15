@@ -1,0 +1,5 @@
+rootProject.name = 'react_native_city_pick'
+include ':react-native-picker'
+project(':react-native-picker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-picker/android')
+
+include ':app'
